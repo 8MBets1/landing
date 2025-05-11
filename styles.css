@@ -55,6 +55,7 @@ body::before {
   text-align: center;
   opacity: 0;
   animation: zoomIn 1s ease forwards;
+  cursor: pointer;
 }
 
 .partner img {
